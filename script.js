@@ -16,7 +16,7 @@ const cryptoWallets = [
  }, 
  {
   symbol: 'ETH', 
-  name: 'Etherium',
+  name: 'Ethereum',
   address: '0x8a203C8523d5Dca33f6CDAf3c220565a7e935c04', 
  }, 
  {
